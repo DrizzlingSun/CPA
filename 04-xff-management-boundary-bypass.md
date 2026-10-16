@@ -51,7 +51,7 @@ An operator deploys with `remote-management.allow-remote: false`, relying on the
 
 ### Credit
 
-Vulnerability reported by [DrizzlingSun](https://github.com/DrizzlingSun) and [jgj212](https://github.com/jgj212).
+Vulnerability reported by [DrizzlingSun](https://github.com/DrizzlingSun) & [jgj212](https://github.com/jgj212) of Asiainfo-sec.
 
 ### Disclosure Timeline
 
@@ -108,7 +108,7 @@ CWE-348（使用可信度较低的数据源）/ CWE-290（通过欺骗绕过认�
 
 ### 致谢
 
-漏洞报告人：[DrizzlingSun](https://github.com/DrizzlingSun)、[jgj212](https://github.com/jgj212)。
+漏洞报告人：[DrizzlingSun](https://github.com/DrizzlingSun) & [jgj212](https://github.com/jgj212) of Asiainfo-sec。
 
 ### 披露时间线
 
