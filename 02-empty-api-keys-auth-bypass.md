@@ -58,7 +58,7 @@ In hosted/SaaS environments where the operator intended `api-keys` to gate acces
 
 ### Credit
 
-Vulnerability reported by [DrizzlingSun](https://github.com/DrizzlingSun) and [jgj212](https://github.com/jgj212).
+Vulnerability reported by [DrizzlingSun](https://github.com/DrizzlingSun) & [jgj212](https://github.com/jgj212) of Asiainfo-sec.
 
 ### Disclosure Timeline
 
@@ -122,7 +122,7 @@ CWE-287 / CWE-306（报告人建议）。
 
 ### 致谢
 
-漏洞报告人：[DrizzlingSun](https://github.com/DrizzlingSun)、[jgj212](https://github.com/jgj212)。
+漏洞报告人：[DrizzlingSun](https://github.com/DrizzlingSun) & [jgj212](https://github.com/jgj212) of Asiainfo-sec。
 
 ### 披露时间线
 
