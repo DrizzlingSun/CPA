@@ -51,7 +51,7 @@ Any tenant holding a valid proxy api-key can retrieve another tenant's video con
 
 ### Credit
 
-Vulnerability reported by [DrizzlingSun](https://github.com/DrizzlingSun) and [jgj212](https://github.com/jgj212).
+Vulnerability reported by [DrizzlingSun](https://github.com/DrizzlingSun) & [jgj212](https://github.com/jgj212) of Asiainfo-sec.
 
 ### Disclosure Timeline
 
@@ -108,7 +108,7 @@ CWE-639：通过用户可控键绕过授权（依据原报告）。
 
 ### 致谢
 
-漏洞报告人：[DrizzlingSun](https://github.com/DrizzlingSun)、[jgj212](https://github.com/jgj212)。
+漏洞报告人：[DrizzlingSun](https://github.com/DrizzlingSun) & [jgj212](https://github.com/jgj212) of Asiainfo-sec。
 
 ### 披露时间线
 
