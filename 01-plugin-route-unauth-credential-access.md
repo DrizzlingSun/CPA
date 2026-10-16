@@ -55,7 +55,7 @@ This is the most severe finding in this report series; only the opt-in precondit
 
 ### Credit
 
-Vulnerability reported by [DrizzlingSun](https://github.com/DrizzlingSun) and [jgj212](https://github.com/jgj212).
+Vulnerability reported by [DrizzlingSun](https://github.com/DrizzlingSun) & [jgj212](https://github.com/jgj212) of Asiainfo-sec.
 
 ### Disclosure Timeline
 
@@ -116,7 +116,7 @@ CWE-306：关键功能缺失认证（报告人建议）。
 
 ### 致谢
 
-漏洞报告人：[DrizzlingSun](https://github.com/DrizzlingSun)、[jgj212](https://github.com/jgj212)。
+漏洞报告人：[DrizzlingSun](https://github.com/DrizzlingSun) & [jgj212](https://github.com/jgj212) of Asiainfo-sec。
 
 ### 披露时间线
 
