@@ -56,7 +56,7 @@ CWE-409 (Improper Handling of Highly Compressed Data — Zip Bomb) and CWE-400 (
 
 ### Credit
 
-Vulnerability reported by [DrizzlingSun](https://github.com/DrizzlingSun) and [jgj212](https://github.com/jgj212).
+Vulnerability reported by [DrizzlingSun](https://github.com/DrizzlingSun) & [jgj212](https://github.com/jgj212) of Asiainfo-sec.
 
 ### Disclosure Timeline
 
@@ -118,7 +118,7 @@ CWE-409（压缩数据处理不当 —— Zip 炸弹）与 CWE-400（不受控�
 
 ### 致谢
 
-漏洞报告人：[DrizzlingSun](https://github.com/DrizzlingSun)、[jgj212](https://github.com/jgj212)。
+漏洞报告人：[DrizzlingSun](https://github.com/DrizzlingSun) & [jgj212](https://github.com/jgj212) of Asiainfo-sec。
 
 ### 披露时间线
 
